@@ -1,2 +1,7 @@
-# PDF-para-Livro
-Criador de livros digitais a partir de um PDF
+# Leia-me para entender :)
+
+esse site tem apenas uma função transformar PDFs em livros
+
+para alguns pode facilitar a leitura e outros ter a experiência ter um livro digital estilo um físico 
+
+aproveite esse site :)
