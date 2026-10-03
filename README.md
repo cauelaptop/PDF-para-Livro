@@ -5,3 +5,5 @@ esse site tem apenas uma função transformar PDFs em livros
 para alguns pode facilitar a leitura e outros ter a experiência ter um livro digital estilo um físico 
 
 aproveite esse site :)
+
+**20% feito por IA 80% feito por humano**
