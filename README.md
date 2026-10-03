@@ -6,4 +6,4 @@ para alguns pode facilitar a leitura e outros ter a experiência ter um livro di
 
 aproveite esse site :)
 
-**20% feito por IA 80% feito por humano**
+**20% feito por IA 80% feito por mim**
